@@ -4,6 +4,10 @@ public class Luiz {
 
 	public static void main(String[] args) {
 
+<<<<<<< HEAD
+		System.out.println("Testing conflictsssssssssO");
+=======
 		System.out.println("Testing");
+>>>>>>> 2c9c90fda474904deae757fae9d39e73635e901b
 	}
 }
